@@ -2,7 +2,7 @@
 
 Developed by Martin Ecker in 2018.
 
-This is a [Homebridge](https://github.com/nfarina/homebridge) plugin for [Denon AVR-3808CI A/V receiver](https://usa.denon.com/us/product/hometheater/receivers/avr3808ci) to enable Apple-HomeKit/Siri control of volume, mute state, and input selection. Although untested, there's a good chance this plugin also works for the Denon AVR-4308CI and AVR-5308CI, and possibly other Denon receivers from that era (around 2007-2010) that support the same HTTP interface as the AVR-3808CI.
+This is a [Homebridge](https://github.com/nfarina/homebridge) plugin for the [Denon AVR-3808CI A/V receiver](https://usa.denon.com/us/product/hometheater/receivers/avr3808ci) to enable Apple-HomeKit/Siri control of volume, mute state, and input selection. Although untested, there's a good chance this plugin also works for the Denon AVR-4308CI and AVR-5308CI, and possibly other Denon receivers from that era (around 2007-2010) that support the same HTTP interface as the AVR-3808CI.
 
 ## Features
 
