@@ -2,6 +2,11 @@
   "name": "homebridge-denon-avr3808ci-http",
   "version": "1.0.0",
   "description": "A homebridge plugin to control volume, mute state, and input for a Denon AVR-3808CI receiver via its HTTP interface. For homebridge see https://github.com/nfarina/homebridge",
+  "homepage": "https://github.com/martinecker/homebridge-denon-avr3808ci-http",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/martinecker/homebridge-denon-avr3808ci-http.git"
+  },
   "main": "index.js",
   "directories": {
     "lib": "lib"
