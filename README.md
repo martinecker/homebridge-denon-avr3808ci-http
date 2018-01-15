@@ -23,6 +23,7 @@ Either all inputs or optionally a desired selection of inputs that can have cust
 1. Install homebridge using: `sudo npm install -g homebridge`
 1. Install this plugin using: `sudo npm install -g homebridge-denon-avr3808ci-http`
 1. Update your configuration file as described below.
+1. Restart homebridge. If you're running it as systemd service this is typically done via `sudo systemctl restart homebridge`.
 
 ## Configuration
 
